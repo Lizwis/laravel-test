@@ -8,6 +8,7 @@
 - Set the environment variables in `.env` file
 - Install composer dependencies: `composer install`
 - Generate key: `php artisan key:generate`
+- Navigate to `storage/app` create `db.sqlite` file
 - Run migration and seeders: `php artisan migrate:fresh --seed`
 - serve app: `php artisan serve`
 
